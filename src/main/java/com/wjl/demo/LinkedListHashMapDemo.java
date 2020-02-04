@@ -7,7 +7,7 @@ import java.util.LinkedList;
  *整理一下思路
  *数组加LinkedList（双向链表）
  *
- * @data 2019/1/14 21:52
+ * @data 2018/7/13 8:39
  * @by wjl
 */
 public class LinkedListHashMapDemo<K,V> {
